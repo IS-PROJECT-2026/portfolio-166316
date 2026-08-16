@@ -1,7 +1,6 @@
 # Quincy Njuguna Portfolio Website
 
-## Overview
-
+## Personal Portfolio Overview
 This project is a responsive personal portfolio website developed as part of the Mini-Project Git Workflow Challenge. It showcases my academic background, technical skills, projects, and contact information while demonstrating professional Git and GitHub workflows.
 
 ---
